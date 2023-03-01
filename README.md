@@ -68,3 +68,9 @@ git stash drop
 git stash clear
 
 ```
+
+## Удалить ветку
+
+```
+git branch -d  local_branch_name
+```
