@@ -10,12 +10,12 @@ git branch
 
 ```bash
 git branch -r
-
+```
 ## Список всех веток
 
 ```bash
 git branch -a
-
+```
 
 ## Как переключиться на ветку в Git
 
