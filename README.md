@@ -17,6 +17,14 @@ git branch -r
 git branch -a
 ```
 
+## Cписок удаленных репозиториев
+
+```bash
+git remote -v
+
+```
+
+
 ## Как переключиться на ветку в Git
 
 ```bash
